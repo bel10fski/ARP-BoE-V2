@@ -1,1 +1,1 @@
-# ARP-BoE-Final
+Welcome to my repository for the collaborative project with the Bank of England 2024. This repository houses my individual contributions to the project, reflecting ongoing work. Please note that changes may follow as we approach the final version.
